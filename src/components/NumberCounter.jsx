@@ -15,7 +15,10 @@ function numberCheck() {
 
 function NumberCounter() {
   return (
-    <div>
+    <div
+      id="numberCounter"
+      className="d-flex flex-column m-3 justify-content-center align-items-center rounded"
+    >
       <h1>Your number is: {playerNumber}</h1>
       <h1>Your number is: {pcNumber}</h1>
       <h1>{numberCheck()}</h1>

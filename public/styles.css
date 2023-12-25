@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(234, 180, 157);
+}
+
+#header {
+  background-color: rgb(78, 15, 91);
+  color: rgb(186, 121, 247);
+}
+
+#footer {
+  background-color: rgb(9, 59, 25);
+  color: rgb(146, 240, 165);
+}
